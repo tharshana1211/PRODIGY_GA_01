@@ -1,16 +1,16 @@
-🚀 **GPT-2 Text Generation (Fine-Tuned Model)
+🚀 **GPT-2 Text Generation (Fine-Tuned Model)**
 
-📌 Project Overview**
+##📌 Project Overview
 
 This project implements a fine-tuned GPT-2 model for generating coherent and contextually relevant text based on a given prompt.
 
 The model was trained using HuggingFace Transformers and PyTorch in Google Colab on a custom text dataset.
 
-**🧠 Objective**
+🧠 **Objective**
 
 To fine-tune a pretrained GPT-2 transformer model and build a system capable of generating meaningful text continuations using causal language modeling.
-**
-🔹 Features**
+
+🔹** Features**
 
 Custom dataset preparation
 
@@ -23,8 +23,8 @@ Causal (autoregressive) language modeling
 Prompt-based text generation
 
 Temperature, Top-k, and Top-p sampling techniques
-**
-🛠 Tech Stack**
+
+🛠 **Tech Stack**
 
 Python
 
@@ -36,7 +36,7 @@ Google Colab
 
 NLP (Natural Language Processing)
 
-**⚙️ How It Works**
+⚙️ **How It Works**
 
 1.The dataset text is tokenized using GPT-2 tokenizer.
 
@@ -48,7 +48,7 @@ NLP (Natural Language Processing)
 
 5.A complete coherent sentence is generated.
 
-**▶️ How To Run**
+▶️ **How To Run**
 1️⃣ Install Dependencies
 pip install transformers datasets torch
 2️⃣ Run Training
@@ -69,7 +69,7 @@ Generated Output:
 
 Artificial Intelligence is transforming industries by enabling automation and intelligent decision-making systems.
 
-**📈 Learning Outcomes**
+📈 **Learning Outcomes**
 
 Understanding Transformer architecture
 
@@ -78,8 +78,8 @@ Implementing causal language modeling
 Fine-tuning pretrained NLP models
 
 Exploring Generative AI techniques
-**
-🔮 Future Improvements**
+
+🔮 **Future Improvements**
 
 Train on larger domain-specific datasets
 
