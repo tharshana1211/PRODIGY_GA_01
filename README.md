@@ -49,6 +49,7 @@ NLP (Natural Language Processing)
 5.A complete coherent sentence is generated.
 
 ▶️ **How To Run**
+
 1️⃣ Install Dependencies
 pip install transformers datasets torch
 2️⃣ Run Training
