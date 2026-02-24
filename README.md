@@ -1,6 +1,6 @@
 🚀 **GPT-2 Text Generation (Fine-Tuned Model)**
 
-##📌 Project Overview
+📌 **Project Overview**
 
 This project implements a fine-tuned GPT-2 model for generating coherent and contextually relevant text based on a given prompt.
 
@@ -10,7 +10,7 @@ The model was trained using HuggingFace Transformers and PyTorch in Google Colab
 
 To fine-tune a pretrained GPT-2 transformer model and build a system capable of generating meaningful text continuations using causal language modeling.
 
-🔹** Features**
+🔹**Features**
 
 Custom dataset preparation
 
