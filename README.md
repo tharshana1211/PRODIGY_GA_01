@@ -52,8 +52,10 @@ NLP (Natural Language Processing)
 
 1️⃣ Install Dependencies
 pip install transformers datasets torch
+
 2️⃣ Run Training
 Open train.ipynb in Google Colab and run all cells.
+
 3️⃣ Generate Text
 
 Provide a prompt like:
